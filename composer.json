@@ -1,0 +1,13 @@
+{
+    "name": "stuydingoop-rodrigoroli/composer",
+    "description": "testando e estudando composer",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Rodrigo Roli",
+            "email": "rodrigo.monteiro.roli@gmail.com"
+        }
+    ]
+}
