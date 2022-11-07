@@ -1,4 +1,9 @@
 {
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
     "name": "stuydingoop-rodrigoroli/composer",
     "description": "testando e estudando composer",
     "require": {
